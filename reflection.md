@@ -1,0 +1,3 @@
+I had quite a bit of trouble with the octopus quiz section, took me an hour or so but after looking back at freecodecamp and around online I was able to figure it out. Although I'm not sure it's totally perfect
+
+Most of the other stuff was fairly easy, I honestly didn't give myself as much time as I would've liked to finish this so I don't know if it's 100% perfect but it's what I have the time for right now. I'm happy with it and I think I  utalized most of what I learned in this class this last week to make this. :)

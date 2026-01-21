@@ -1,0 +1,55 @@
+/* All the fonts on this page are sans serif */
+*{ 
+    font-family: sans-serif;
+}
+/*Grey Background on body*/
+body{
+    background-color: rgb(243, 243, 243);
+}
+/*Blue header cneted with white font*/
+#header{
+    text-align: center;
+    background-color: rgb(28, 105, 248);
+    color:white;
+}
+
+/* Add spacing below each li inside an ol */
+ol li {
+    margin-bottom: 8px;
+}
+
+#quiz-section{
+ background-color: rgb(217, 239, 255);
+  position: relative;
+  padding-right: 120px;   /* leaves room for the image on the right */
+}
+
+#quiz-section img{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+/* stack the form items */
+#quiz-section label,
+#quiz-section input[type="text"]{
+  display: block;
+}
+
+#quiz-section form br{
+  display: none;
+}
+
+th,td{
+    padding: 6px;
+}
+
+#footer{
+    background-color: rgb(191, 191, 191);
+    text-align: center;
+}
+
+.important{
+    font-weight: bold;
+    color:red;
+}
